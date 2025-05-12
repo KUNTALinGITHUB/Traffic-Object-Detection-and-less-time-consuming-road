@@ -1,6 +1,6 @@
 
 
-https://github.com/user-attachments/assets/fc6e2a25-3bbb-4f3d-9f29-02ca5b60a6d9
+
 
 Traffic Object Detection and less time consuming read
 
