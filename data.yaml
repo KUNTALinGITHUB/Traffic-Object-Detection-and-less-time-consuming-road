@@ -1,0 +1,7 @@
+train: D:/Traffic/copy/train/images
+val: D:/Traffic/copy/valid/images
+test: D:/Traffic/copy/test/images
+
+nc: 5
+names: ['bicycle', 'bus', 'car', 'motorbike', 'person']
+
