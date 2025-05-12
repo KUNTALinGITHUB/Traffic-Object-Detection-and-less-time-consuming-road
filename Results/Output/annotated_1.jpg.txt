@@ -1,0 +1,6 @@
+Class: bicycle, Count: 0
+Class: bus, Count: 0
+Class: car, Count: 19
+Class: motorbike, Count: 0
+Class: person, Count: 5
+Total Objects: 24
