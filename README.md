@@ -16,7 +16,7 @@ Install the required packages:
 
 
 
-Download the YOLOv8 model weights:
+Download the YOLO model weights:
 
 Place the best.pt file in the appropriate directory as specified in the code.
 Usage
